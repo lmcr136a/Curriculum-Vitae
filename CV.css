@@ -1,3 +1,179 @@
+
+
 h1{
-    border: solid 1px black;
+    margin-top: 10vh;
+    margin-left: 7vw;
+    margin-bottom: 5px;
+    float: left;
+}
+
+.mail{
+    font-size: 12px;
+    margin-left: 7vw;
+    margin-top: 0px;
+}
+
+
+
+.headLine{
+    border: 1px black;
+    height: 1.5px;
+    border-top: black 2px solid;
+    border-bottom: black 1px solid;
+    clear: both;
+    margin-bottom: 0px;
+    margin-right: 25vW;
+    margin-left: 6vW;
+}
+
+h3{ margin: 2px;
+    margin-bottom: 0px;
+    font-size: 16px;
+    margin-left: 7vw;
+}
+
+.divLine{
+    margin-top: 0px;
+    margin-left: 7vW;
+    margin-right: 25vW;
+    border-bottom: black 1px solid;
+    clear: both;
+}
+
+.projectDate{
+    margin: 0px;
+    width: 20vw;
+    height: 20vh;
+    float: left;
+    font-size: 11px;
+    font-weight: 500;
+    clear: both;
+}
+
+.projTitle{
+    margin: 0px;
+    width: 50vw;
+    overflow: hidden;
+    font-size: 12px;
+    font-weight: 550;
+}
+
+.prijContent{
+    margin: 0px;
+    margin-top: 2px;
+    font-size: 10px;
+    width: 40vw;
+    overflow: hidden;
+}
+
+.projects{
+    margin-left: 7vw;
+    margin-top: 2px;
+    height: 65px;
+    clear: both;
+    overflow: hidden;
+}
+
+.firstproj{
+    height: 90px;
+}
+
+.secondproj{
+    height: 65px;
+}
+
+
+
+
+.leclistTitle{
+    float: left;
+    width: 350px;
+}
+.totalGPA{
+    margin-left: 7vw;
+    font-size: 10px;
+    position: absolute;
+    left: 330px;
+}
+
+.emp{
+    clear: both;
+}
+
+.lecTitle{
+    clear: both;
+    float: left;
+    width: 300px;
+    height: 14px;
+    font-weight: 500;
+    font-size: 13px;
+    margin-left: 8vw;
+    margin-top: 3px;
+    margin-bottom: 1px;
+}
+
+.grade{
+    overflow: hidden;
+    width: 100px;
+    height: 18px;
+    margin-left: 27vw;
+    font-size: 10px;
+    left: 400px;
+    margin-top: 3px;
+    margin-bottom: 1px;
+}
+
+.longLec{
+    height: 35px;
+    margin-bottom: 0px;
+}
+.longLecGra{
+    height: 18px;
+    padding-top: 22px;
+}
+
+
+
+.skills{
+    margin-left: 8vw;
+    font-size: 14px;
+    font-weight: 540;
+}
+
+.langlist{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.progList{
+    margin: 1px;
+
+}
+
+
+
+.clubDate{
+    font-weight: 500;
+    font-size: 11px;
+    width: 20vw;
+    height: 24px;
+    float: left;
+    clear: both;
+    margin: 3px;
+    margin-left: 7vw;
+}
+
+.clubName{
+    width: 400px;
+    height: 30px;
+    font-size: 13px;
+    margin-left: 7vw;
+    overflow: hidden;
+    margin: 3px;
+}
+.longName{
+    height: 50px;
+}
+.longNamedate{
+    height: 40px;
 }
