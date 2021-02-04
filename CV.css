@@ -69,17 +69,13 @@ h3{ margin: 2px;
 .projects{
     margin-left: 7vw;
     margin-top: 2px;
-    height: 65px;
+    height: 55px;
     clear: both;
     overflow: hidden;
 }
 
 .firstproj{
-    height: 90px;
-}
-
-.secondproj{
-    height: 65px;
+    height: 70px;
 }
 
 
